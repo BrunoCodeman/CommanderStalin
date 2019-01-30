@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 53
+include
+lib
+bos.ncb
+bos.suo
+windows-runtime-libs.zip
+
+END

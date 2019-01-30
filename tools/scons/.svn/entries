@@ -1,0 +1,40 @@
+8
+
+dir
+9568
+svn://bos.seul.org/svn/bos/bos/trunk/tools/scons
+svn://bos.seul.org/svn/bos
+
+
+
+2007-10-06T15:25:32.694474Z
+9174
+feb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34fe1b89-62eb-0310-b8fd-a8472fcdd8b9
+
+crossmingw.py
+file
+
+
+
+
+2008-09-03T07:04:53.000000Z
+dfa1b87c641a970ffcd3ab380fc3623a
+2007-10-06T15:25:32.694474Z
+9174
+feb
+

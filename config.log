@@ -1,0 +1,36 @@
+file /home/debugg/ports/games/boswars/SConstruct,line 198:
+	Configure(confdir = .sconf_temp)
+scons: Configure: Checking for C library z... 
+.sconf_temp/conftest_0.c <-
+  |
+  |
+  |#include "zlib.h"
+  |
+  |int
+  |main() {
+  |  
+  |return 0;
+  |}
+  |
+gcc -o .sconf_temp/conftest_0.o -c -fsigned-char -fsigned-char -fsigned-char -fsigned-char -I/usr/local/include -I/usr/local/include/libpng .sconf_temp/conftest_0.c
+gcc -o .sconf_temp/conftest_0 .sconf_temp/conftest_0.o -L/usr/local/lib -lz
+scons: Configure: yes
+
+scons: Configure: Checking for C library png... 
+.sconf_temp/conftest_1.c <-
+  |
+  |
+  |#include "png.h"
+  |
+  |int
+  |main() {
+  |  
+  |return 0;
+  |}
+  |
+gcc -o .sconf_temp/conftest_1.o -c -fsigned-char -fsigned-char -fsigned-char -fsigned-char -I/usr/local/include -I/usr/local/include/libpng .sconf_temp/conftest_1.c
+gcc -o .sconf_temp/conftest_1 .sconf_temp/conftest_1.o -L/usr/local/lib -lz -lpng
+/usr/local/lib/libpng.so.7.0: undefined reference to `pow'
+collect2: ld returned 1 exit status
+scons: Configure: no
+

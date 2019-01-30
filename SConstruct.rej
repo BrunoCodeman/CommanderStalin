@@ -1,0 +1,20 @@
+@@ -169,8 +178,8 @@
+ 
+ def CheckLuaLib(env, conf):
+   if not 'USE_WIN32' in env['CPPDEFINES']:
+-     if env.WhereIs('lua-config'):
+-        env.ParseConfig('lua-config --include --libs')
++     if env.WhereIs('pkg-config'):
++        env.ParseConfig('pkg-config --cflags --libs lua')
+      elif env.WhereIs('pkg-config'):
+         for packagename in ['lua5.1', 'lua51', 'lua']:
+            exitcode, _ = ParseConfig(env, 'pkg-config --cflags --libs ' + packagename)
+@@ -193,7 +202,7 @@
+   lualibfound = 0
+   if conf.CheckFunc('luaopen_base'):
+      return 1
+-  if conf.CheckLibWithHeader('lualib', 'lualib.h', 'c'):
++  if conf.CheckLibWithHeader('lua', 'lualib.h', 'c'):
+      lualibfound = 1
+   elif conf.CheckLibWithHeader('lualib50', 'lualib.h', 'c'):
+      lualibfound = 1

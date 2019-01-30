@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 52
+obj
+winobj
+Debug
+Release
+boswars
+stratagus.vcproj.*
+
+END

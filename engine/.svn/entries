@@ -1,0 +1,115 @@
+8
+
+dir
+9568
+svn://bos.seul.org/svn/bos/bos/trunk/engine
+svn://bos.seul.org/svn/bos
+
+
+
+2008-09-01T02:33:36.466111Z
+9567
+jim4
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34fe1b89-62eb-0310-b8fd-a8472fcdd8b9
+
+unit
+dir
+
+stratagus.vcproj
+file
+
+
+
+
+2008-09-03T07:07:35.000000Z
+3b3904fda4d432052db6003535d57c0b
+2008-03-05T05:26:07.930458Z
+9521
+jim4
+has-props
+
+stratagus.rc
+file
+
+
+
+
+2008-09-03T07:07:35.000000Z
+bcc30f0183351b1506f46aeaab1470fd
+2007-04-02T00:41:20.631433Z
+8660
+jim4
+has-props
+
+include
+dir
+
+pathfinder
+dir
+
+tolua
+dir
+
+editor
+dir
+
+stratagus.ico
+file
+
+
+
+
+2008-09-03T07:07:35.000000Z
+fb15e3cf3b7ef0c18a8f546ed5390cda
+2007-04-02T00:41:20.631433Z
+8660
+jim4
+has-props
+
+sound
+dir
+
+ai
+dir
+
+network
+dir
+
+particle
+dir
+
+video
+dir
+
+game
+dir
+
+ui
+dir
+
+action
+dir
+
+map
+dir
+
+stratagus
+dir
+
+guichan
+dir
+

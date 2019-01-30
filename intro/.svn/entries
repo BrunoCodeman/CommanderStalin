@@ -1,0 +1,54 @@
+8
+
+dir
+9568
+svn://bos.seul.org/svn/bos/bos/trunk/intro
+svn://bos.seul.org/svn/bos
+
+
+
+2007-12-07T20:17:50.284105Z
+9298
+feb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34fe1b89-62eb-0310-b8fd-a8472fcdd8b9
+
+logo_boswars.png
+file
+
+
+
+
+2008-09-03T06:56:39.000000Z
+98f4e5cbfa34234cd1dc71a7deb4455d
+2007-12-07T20:17:50.284105Z
+9298
+feb
+has-props
+
+boswars_intro.ogg
+file
+
+
+
+
+2008-09-03T06:56:39.000000Z
+58acae8b93364778cce40c733bee99d3
+2007-07-08T17:35:12.372529Z
+9013
+Nehal
+has-props
+

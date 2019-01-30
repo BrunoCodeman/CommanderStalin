@@ -1,0 +1,54 @@
+8
+
+dir
+9568
+svn://bos.seul.org/svn/bos/bos/trunk/engine/editor
+svn://bos.seul.org/svn/bos
+
+
+
+2008-09-01T02:33:36.466111Z
+9567
+jim4
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34fe1b89-62eb-0310-b8fd-a8472fcdd8b9
+
+editloop.cpp
+file
+
+
+
+
+2008-09-03T07:07:22.000000Z
+61bf4b1e47e60d2df13c3c15343f56c5
+2008-09-01T02:33:36.466111Z
+9567
+jim4
+has-props
+
+patch_editor.cpp
+file
+
+
+
+
+2008-09-03T07:07:22.000000Z
+3d7d83398246b4df74167fded70dede9
+2008-08-30T00:52:21.088150Z
+9559
+jim4
+has-props
+

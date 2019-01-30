@@ -1,0 +1,10 @@
+CPPPATH = ['/usr/local/include', '/usr/local/include/libpng']
+CPPDEFINES = []
+LIBPATH = ['/usr/local/lib']
+CCFLAGS = ['-fsigned-char', '-fsigned-char', '-fsigned-char', '-fsigned-char']
+LINKFLAGS = ['$__RPATH']
+CC = 'gcc'
+CXX = 'g++'
+LINK = '$SMARTLINK'
+MINGWCPPPATH = []
+MINGWLIBPATH = []

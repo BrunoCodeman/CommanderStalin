@@ -1,0 +1,54 @@
+8
+
+dir
+9568
+svn://bos.seul.org/svn/bos/bos/trunk/scripts/menus/ingame
+svn://bos.seul.org/svn/bos
+
+
+
+2008-03-01T22:01:31.548599Z
+9504
+jim4
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34fe1b89-62eb-0310-b8fd-a8472fcdd8b9
+
+editor.lua
+file
+
+
+
+
+2008-09-03T06:56:08.000000Z
+2ace831dfaeb64e00a265e326877880a
+2008-03-01T22:01:31.548599Z
+9504
+jim4
+has-props
+
+game.lua
+file
+
+
+
+
+2008-09-03T06:56:08.000000Z
+a3377758269a321b494d8ed623f00dbc
+2008-01-21T22:40:31.941855Z
+9419
+Nehal
+has-props
+

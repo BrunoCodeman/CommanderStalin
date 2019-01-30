@@ -1,0 +1,143 @@
+8
+
+dir
+9568
+svn://bos.seul.org/svn/bos/bos/trunk
+svn://bos.seul.org/svn/bos
+
+
+
+2008-09-01T20:45:01.557267Z
+9568
+jim4
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34fe1b89-62eb-0310-b8fd-a8472fcdd8b9
+
+music
+dir
+
+COPYRIGHT.txt
+file
+
+
+
+
+2008-09-03T07:07:42.000000Z
+8020d0b708c3c2f36959dd18344febe7
+2008-01-26T21:57:58.028570Z
+9448
+feb
+
+CHANGELOG
+file
+
+
+
+
+2008-09-03T07:07:42.000000Z
+099740c3ca1baf753cf5b710c7caa394
+2008-08-30T22:12:37.534827Z
+9562
+jim4
+has-props
+
+patches
+dir
+
+scripts
+dir
+
+intro
+dir
+
+tools
+dir
+
+graphics
+dir
+
+maps
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2008-09-03T07:07:42.000000Z
+972671bd92038227b4456812980679ab
+2006-02-27T20:01:05.715170Z
+331
+feb
+has-props
+
+units
+dir
+
+campaigns
+dir
+
+doc
+dir
+
+engine
+dir
+
+languages
+dir
+
+SConstruct
+file
+
+
+
+
+2008-09-03T07:07:42.000000Z
+61ccbd3f9689d30387e2318c3bd2c7ce
+2008-03-08T21:15:59.688352Z
+9528
+feb
+has-props
+
+sounds
+dir
+
+README.txt
+file
+
+
+
+
+2008-09-03T07:07:42.000000Z
+9608ad366f224e5ec0e5c7437562fcf5
+2008-01-26T17:04:41.868268Z
+9441
+llearch
+has-props
+
+bos.sln
+file
+
+
+
+
+2008-09-03T07:07:42.000000Z
+1ded7cf901c936f66415280d7aaebb24
+2007-02-27T22:26:53.621683Z
+8583
+feb
+

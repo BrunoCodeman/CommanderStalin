@@ -1,0 +1,14 @@
+
+--
+--=============================================================================
+--  Define level 02 Map Setup
+--
+
+-- AI
+--Players[1].AiName = "ai-rush"
+
+-- Units
+AllowDefaultUnits()
+
+-- Map
+Load("maps/campaigns/elites/nivel2.map/setup.sms")
