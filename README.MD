@@ -3,7 +3,7 @@ Commander Stalin
 
 About
 -----
-Commander Stalin is a sobiet real-time strategy game featuring a dynamic
+Commander Stalin is a soviet real-time strategy game featuring a dynamic
 rate-based economy. Resources are continuously produced while also being
 consumed by creating buildings and training new units. Commander Stalin 
 aims to create a completely original and fun open source RTS game. 
